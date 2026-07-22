@@ -7,3 +7,5 @@ def another_function():
 
 
 another = "stuff"
+
+modifications added
